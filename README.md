@@ -56,11 +56,3 @@ Evidencia
 La siguiente imagen muestra una ejecución de ejemplo (resultado / evidencia) del proyecto:
 
 ![Evidencia del proyecto](assets/image.png)
-
-Salida esperada
----------------
-- El script puede guardar imágenes resultantes en una carpeta `runs/predict` (comportamiento típico de `ultralytics`), o imprimir cajas y clases por consola.
-
-Contacto
--------
-Si necesitas que adapte el README (añada instrucciones concretas sobre argumentos del script o un `requirements.txt`), dime y lo incluyo.
